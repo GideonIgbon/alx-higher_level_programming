@@ -1,4 +1,4 @@
-# Higher-Level programming - Python
+# Higher-Level Programming - Python
 
 This repository contains programs written for the higher-level programming
 track at ALX Africa. In these projects, which began occurring in month
